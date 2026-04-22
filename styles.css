@@ -1,5 +1,10 @@
 :root {
-  --bg: #08111f;
+  --bg: #0b1220;
+  --surface: #0f172a;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --accent: #64748b;
+  --border: #1f2937;
   --panel: #0f172a;
   --panel-2: #111c33;
   --text: #e5eefc;
