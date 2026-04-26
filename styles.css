@@ -228,6 +228,7 @@ h3 {
   font-weight: 800;
   margin-bottom: 1rem;
   background: linear-gradient(135deg, rgba(125, 211, 252, 0.22), rgba(192, 132, 252, 0.26));
+  object-fit: cover;
 }
 
 .stat-list {
